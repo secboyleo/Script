@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-#script de firewall para icmp e ssh (stateful)
+#script de firewall para icmp e ssh (stateful) usando o iptables
 #
 iptables -F
 iptables -X
